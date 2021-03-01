@@ -1,0 +1,56 @@
+body {
+  background-color: #f5c5ce;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #d04261;
+  font-family: 'Short Stack', cursive;
+  font-size: 8rem;
+  text-align: center;
+}
+
+h2 {
+  color: #d04261;
+  font-family: 'Short Stack', cursive;
+  font-size: 6rem;
+  padding-left: 15%;
+}
+
+h3 {
+  color: #d04261;
+  font-family: 'Short Stack', cursive;
+  font-size: 4rem;
+  padding-left: 30%;
+}
+
+img {
+  width: 100%;
+}
+
+table {
+  margin: auto;
+  font-size: 1.5em;
+  padding: .5em;
+}
+
+.dazzle {
+  color: #9c7c38;
+}
+
+.tagline {
+  color: #d04261;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.t-1 {
+  color: #4ca7ad;
+  font-family: 'Lemonada', cursive;
+  font-size: 3rem;
+  padding: .5em;
+}
+
+.Meet {
+  padding: 2rem;
+}
