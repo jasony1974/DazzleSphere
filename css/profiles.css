@@ -1,0 +1,73 @@
+body {
+  background-color:  #E4F9F5;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #d04261;
+  font-family: 'Crafty Girls', cursive;
+  font-size: 6rem;
+  margin: 10;
+  text-align: center;
+}
+
+
+
+.profile_row_odd {
+  background-color: #E4F9F5;
+  width: 70%;
+  height: 200px;
+  margin: 0 auto 0 auto;
+}
+
+.profile_pic_odd {
+ float: left;
+ margin: 15px 25px 10px 0;
+ height: 175px;
+}
+
+.profile_label_odd {
+  color: #4ca7ad;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 3rem;
+  margin: 0;
+  text-align: left;
+}
+
+.profile_p_odd {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+  margin: 0;
+  text-align: justify;
+  padding: 8px;
+}
+
+.profile_row_even {
+  background-color: #E4F9F5;
+  width: 70%;
+  height: 200px;
+  margin: 0 auto 0 auto;
+}
+
+.profile_pic_even {
+ float: right;
+ margin: 15px 0px 10px 25px;
+ height: 175px;
+}
+
+.profile_label_even {
+  color: #4ca7ad;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 3rem;
+  margin: 0;
+  text-align: right;
+}
+
+.profile_p_even {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+  margin: 0;
+  text-align: justify;
+  padding: 8px;
+}
