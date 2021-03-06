@@ -12,6 +12,10 @@ h1 {
   text-align: center;
 }
 
+footer {
+  text-align: center;
+}
+
 .profiles {
   margin: 0 auto;
   width: 85%;
@@ -20,13 +24,14 @@ h1 {
 .profile_row_odd {
   background-color: #E4F9F5;
   width: 70%;
-  height: 300px;
+  min-height: 230px;
   margin: 20px auto 20px auto;
 }
 
 .profile_pic_odd {
  float: left;
- margin: 60px 10px 60px 0;
+ vertical-align: middle;
+ margin: auto 10px auto 0;
  height: 180px;
 }
 
@@ -50,13 +55,14 @@ h1 {
 .profile_row_even {
   background-color: #E4F9F5;
   width: 70%;
-  height: 300px;
+  min-height: 230px;
   margin: 20px auto 20px auto;
 }
 
 .profile_pic_even {
  float: right;
- margin: 60px 0 60px 10px;
+ vertical-align: middle;
+ margin: auto 0 auto 10px;
  height: 180px;
 }
 
@@ -75,4 +81,10 @@ h1 {
   margin: 0;
   text-align: justify;
   padding: 8px;
+}
+
+.home-link {
+  font-family: Montserrat;
+  font-size: 2rem;
+  padding: .5em;
 }
