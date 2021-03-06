@@ -31,7 +31,6 @@ footer {
 
 .profile_pic_odd {
  float: left;
- vertical-align: middle;
  margin: auto 10px auto 0;
  height: 180px;
 }
@@ -62,7 +61,6 @@ footer {
 
 .profile_pic_even {
  float: right;
- vertical-align: middle;
  margin: auto 0 auto 10px;
  height: 180px;
 }
