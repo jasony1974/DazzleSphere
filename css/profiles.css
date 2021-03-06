@@ -20,14 +20,14 @@ h1 {
 .profile_row_odd {
   background-color: #E4F9F5;
   width: 70%;
-  height: 200px;
+  height: 300px;
   margin: 20px auto 20px auto;
 }
 
 .profile_pic_odd {
  float: left;
- margin: 15px 25px 10px 0;
- height: 175px;
+ margin: 60px 10px 60px 0;
+ height: 180px;
 }
 
 .profile_label_odd {
@@ -50,14 +50,14 @@ h1 {
 .profile_row_even {
   background-color: #E4F9F5;
   width: 70%;
-  height: 200px;
+  height: 300px;
   margin: 20px auto 20px auto;
 }
 
 .profile_pic_even {
  float: right;
- margin: 15px 0 10px 25px;
- height: 175px;
+ margin: 60px 0 60px 10px;
+ height: 180px;
 }
 
 .profile_label_even {
