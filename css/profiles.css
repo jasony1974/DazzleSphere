@@ -22,11 +22,19 @@ footer {
   width: 85%;
 }
 
-.profile_row_odd {
+.profile-odd {
   background-color: #E4F9F5;
+}
+
+.profile-even {
+  background-color: #fcdee4;
+}
+
+.profile_row_odd {
   width: 70%;
   min-height: 230px;
   margin: 20px auto 20px auto;
+  padding: 20px 0;
 }
 
 .profile_pic_odd {
@@ -53,10 +61,10 @@ footer {
 }
 
 .profile_row_even {
-  background-color: #E4F9F5;
   width: 70%;
   min-height: 230px;
   margin: 20px auto 20px auto;
+  padding: 20px 0;
 }
 
 .profile_pic_even {
