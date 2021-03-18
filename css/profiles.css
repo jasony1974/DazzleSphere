@@ -30,6 +30,10 @@ footer {
   background-color: #fcdee4;
 }
 
+.triplets {
+  background-color: #fffdd1;
+}
+
 .profile_row_odd {
   width: 70%;
   min-height: 230px;
@@ -59,6 +63,8 @@ footer {
   text-align: justify;
   padding: 8px;
 }
+
+
 
 .profile_row_even {
   width: 70%;
