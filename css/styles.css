@@ -61,6 +61,8 @@ table {
   color: #d04261;
   font-family: 'The Girl Next Door', cursive;
   font-size: 3rem;
+  margin: 3rem 0 1rem;
+  padding: 3rem 1rem 0;
   text-align: center;
 }
 
@@ -77,6 +79,17 @@ table {
 
 .Meet {
   padding: 2rem;
+}
+
+.feature {
+  margin: auto;
+  width: 50%;
+}
+
+.magazine {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 2rem;
+  text-align: center;
 }
 
 @-moz-keyframes shimmer {
