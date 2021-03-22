@@ -82,7 +82,7 @@ table {
 }
 
 .feature {
-  margin: auto;
+  margin: 0 auto 3rem;
   width: 50%;
 }
 
