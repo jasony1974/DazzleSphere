@@ -4,16 +4,35 @@ body {
     text-align: center;
   }
 
-  .label {
-    color: #4ca7ad;
-    font-family: 'Architects Daughter', cursive;
-    font-size: 3rem;
-    padding: .5rem 2rem .5rem 2rem;
-  }
 
-  .bad-girl {
-      width: 50%;
-      margin: auto;
+  .profile_row_odd {
+    width: 70%;
+    min-height: 230px;
+    margin: 40px auto 20px auto;
+    padding: 20px 0;
+  }
+  
+  .profile_pic_odd {
+   float: left;
+   margin: auto 10px auto 0;
+   height: 180px;
+  }
+  
+  .profile_label_odd {
+    color: #4ca7ad;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 3rem;
+    margin: 0;
+    text-align: left;
+    line-height: 4rem;
+  }
+  
+  .profile_p_odd {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    margin: 0;
+    text-align: justify;
+    padding: 8px;
   }
   
 .home-link {
