@@ -1,0 +1,24 @@
+body {
+    background-color:  #E4F9F5;
+    margin: 0;
+    text-align: center;
+  }
+
+  .label {
+    color: #4ca7ad;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 3rem;
+    padding: .5rem 2rem .5rem 2rem;
+  }
+
+  .bad-girl {
+      width: 50%;
+      margin: auto;
+  }
+  
+.home-link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.25rem;
+    padding: .5em;
+    padding-bottom: 2rem;
+  }
