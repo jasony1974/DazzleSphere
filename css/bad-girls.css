@@ -34,6 +34,37 @@ body {
     text-align: justify;
     padding: 8px;
   }
+
+  
+.profile_row_even {
+  width: 70%;
+  min-height: 230px;
+  margin: 40px auto 20px auto;
+  padding: 20px 0;
+}
+
+.profile_pic_even {
+ float: right;
+ margin: auto 0 auto 10px;
+ height: 180px;
+}
+
+.profile_label_even {
+  color: #4ca7ad;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 3rem;
+  margin: 0;
+  text-align: right;
+  line-height: 4rem;
+}
+
+.profile_p_even {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.1rem;
+  margin: 0;
+  text-align: justify;
+  padding: 8px;
+}
   
 .home-link {
     font-family: 'Montserrat', sans-serif;
