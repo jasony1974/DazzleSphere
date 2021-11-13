@@ -4,6 +4,13 @@ body {
     margin: 0;
   }
   
+  footer {
+    background-color: #f5c5ce;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    text-align: center;
+  }
+
   h1 {
     color: #d04261;
     font-family: 'Crafty Girls', cursive;
