@@ -7,45 +7,31 @@ body {
   footer {
     background-color: #f5c5ce;
     font-family: 'Montserrat', sans-serif;
-    margin: 0;
+    margin: auto;
     text-align: center;
   }
 
   h1 {
     color: #d04261;
-    font-family: 'Crafty Girls', cursive;
+    font-family: 'The Girl Next Door', cursive;
     font-size: 6rem;
     margin: 0;
     text-align: center;
   
   }
   
-  h2 {
-    color: #d04261;
-    font-family: 'Crafty Girls', cursive;
-    font-size: 4rem;
-    margin: 0;
-    text-align: center;
-  }
-  
   h3 {
     color: #d04261;
-    font-family: 'Crafty Girls', cursive;
+    font-family: 'The Girl Next Door', cursive;
     font-size: 3rem;
     margin: 0;
     text-align: center;
     padding-bottom:15px;
   }
 
-  h5 {
-    color: #c92649;
-    font-family: 'Crafty Girls', cursive;
-    font-size: 1.25 rem;
-  }
-
   p {
     color: #c92649;
-    font-family: 'Crafty Girls', cursive;
+    font-family: 'The Girl Next Door', cursive;
   }
 
   .carousel {
