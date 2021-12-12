@@ -12,14 +12,16 @@
 </head>
 <body>
   <div id="svg-container">
+    <?xml version="1.0" standalone="no"?>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
     <svg viewBox="0 0 960 2880" class="svg-content">
-<!--         <defs>
+        <defs>
           <filter id="filter" height="1.4" width="1.4">
             <feTurbulence baseFrequency="0.18" numOctaves="2" type="fractalNoise" result="result1" />
             <feDisplacementMap in2="result1" scale="99" result="result2" xChannelSelector="R" in="SourceGraphic" />
             <feComposite in2="result2" in="SourceGraphic" operator="atop" result="fbSourceGraphic" />
           </filter>
-        </defs> -->
+        </defs>
         <rect fill="PeachPuff" filter="url(#filter)" x="2%" y="2%" width="96%" height="96%"/>
         <foreignObject>
           <div id="content">
