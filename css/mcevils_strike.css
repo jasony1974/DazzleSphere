@@ -1,6 +1,5 @@
 body {  
   background: FireBrick;
-  min-height: 100vh;
   }
 
   footer {
@@ -9,30 +8,44 @@ body {
     text-align: center;
   }
 
-  svg {
+  /* svg {
+    position: absolute;
     display: block;
     margin: auto;
     width: 90%;
     height: 100%;
     align-items: center;
+    z-index: 1;
+  } */
+
+  #main{
+    margin-bottom: 50%;
   }
 
-  foreignObject{
+  #svg-container{
+    position: absolute;
+    left: 5%;
     display: block;
-    width: 100%;
-    height: 100%;
+    margin: auto;
+    width: 90%;
+    height: 90%;
+    align-items: center;
+    z-index: 1;
   }
-
+  
   #content{
+    position: absolute;
+    left: 12.5%;
     display:block;
     margin: auto;
     width: 75%;
     padding-top: 5%;
+    z-index: 10;
   }
 
   h1{
     font-family: 'Crimson Pro', serif;
-    font-size: 2rem;
+    font-size: 3vw;
     text-align: center;
     padding-top: 5%;
   }
@@ -44,16 +57,16 @@ body {
   p {
     color: black;
     font-family: 'Crimson Pro', serif;
-    font-size: 1.1rem;
+    font-size: 1.7vw;
   }
 
   .caps{
     color: rgba(0,0,0);
     float:left;
     margin-top: 0;
-    font-size: 3.5rem;
-    line-height: 2.5rem;
-    padding-right: .25rem;
+    font-size: 5vw;
+    line-height: 3.5vw;
+    padding-right: .4vw;
     position:relative;
   }
 
