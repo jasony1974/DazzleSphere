@@ -84,8 +84,10 @@ table {
   padding: .5rem 2rem .5rem 2rem;
 }
 
-.Meet {
+a.Meet {
   padding: 2rem;
+  color: transparent;
+  animation: effect 1.5s linear infinite;
 }
 
 .feature {
@@ -98,6 +100,20 @@ table {
   font-family: 'Architects Daughter', cursive;
   font-size: 2rem;
   text-align: center;
+}
+
+@keyframes effect {
+  0% {
+      background: linear-gradient(
+         #bcbbff, #541d8b);
+      -webkit-background-clip: text;
+  }
+
+  100% {
+      background: linear-gradient(
+        #f5c5ce, #af2140);
+      -webkit-background-clip: text;
+  }
 }
 
 @-moz-keyframes shimmer {
