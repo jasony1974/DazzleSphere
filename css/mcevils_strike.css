@@ -2,65 +2,45 @@ body {
   background: FireBrick;
   }
 
-  footer {
+footer {
     font-family: 'Crimson Pro', serif;
-    margin: auto;
     text-align: center;
   }
 
-  /* svg {
-    position: absolute;
+#texture-container{
     display: block;
-    margin: auto;
-    width: 90%;
-    height: 100%;
-    align-items: center;
-    z-index: 1;
-  } */
-
-  #main{
-    margin-bottom: 50%;
-  }
-
-  #svg-container{
-    position: absolute;
-    left: 5%;
-    display: block;
-    margin: auto;
+    margin: 5%;
     width: 90%;
     height: 90%;
     align-items: center;
-    z-index: 1;
+    background-image: url("brushed-alum.png");
   }
   
-  #content{
-    position: absolute;
-    left: 12.5%;
+#content{
     display:block;
     margin: auto;
     width: 75%;
     padding-top: 5%;
-    z-index: 10;
   }
 
-  h1{
+h1{
     font-family: 'Crimson Pro', serif;
     font-size: 3vw;
     text-align: center;
     padding-top: 5%;
   }
 
-  .section{
+.section{
     padding-top: 0;
   }
 
-  p {
+p {
     color: black;
     font-family: 'Crimson Pro', serif;
     font-size: 1.7vw;
   }
 
-  .caps{
+.caps{
     color: rgba(0,0,0);
     float:left;
     margin-top: 0;
@@ -70,7 +50,7 @@ body {
     position:relative;
   }
 
-  a{
+a{
     color: PeachPuff;
     font-family: 'Crimson Pro', serif;
   }
