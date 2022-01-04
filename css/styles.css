@@ -87,7 +87,7 @@ table {
 
 a.Meet {
   padding: 2rem;
-  color: transparent;
+  color: rgba(255, 255, 255, 0);
   animation: effect 1.5s linear infinite;
 }
 
