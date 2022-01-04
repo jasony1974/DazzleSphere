@@ -105,13 +105,13 @@ a.Meet {
 
 @keyframes effect {
   0% {
-      background: linear-gradient(
+      background: -webkit-linear-gradient(
          #bcbbff, #541d8b);
       -webkit-background-clip: text;
   }
 
   100% {
-      background: linear-gradient(
+      background: -webkit-linear-gradient(
         #f5c5ce, #af2140);
       -webkit-background-clip: text;
   }
