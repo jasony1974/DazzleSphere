@@ -40,6 +40,47 @@ img {
   width: 100%;
 }
 
+.btn {
+  align-items: center;
+  border: none;
+  border-radius: 15px;
+  box-shadow: .3rem 0 .3rem #7a6d87;
+  color: #FFFFFF;
+  display: inline-flex;
+  text-align: center;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  margin: 16px 16px !important;
+  text-decoration: none;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.pink{
+  background-color: #fcdee4;
+}
+
+.pink:hover{
+  background-color: #fffdd1;
+  border: 1.5px solid;
+  border-color: #ffdb6e; 
+}
+
+.yellow{
+  background-color: #fffdd1;
+}
+
+.yellow:hover{
+  background-color: #fcdee4;
+  border: 1.5px solid;
+  border-color: #d04261;  
+}
+
+.buttons{
+  text-align: center;
+}
+
 table {
   margin: auto;
   font-size: 1.5em;
@@ -67,9 +108,9 @@ table {
 .tagline {
   color: #d04261;
   font-family: 'The Girl Next Door', cursive;
-  font-size: 3rem;
-  margin: 3rem 0 1rem;
-  padding: 3rem 1rem 0;
+  font-size: 2rem;
+  margin: 0;
+  padding: 1rem;
   text-align: center;
 }
 
@@ -86,7 +127,7 @@ table {
 }
 
 a.Meet {
-  padding: 2rem;
+  padding: 1rem;
   color: rgba(255, 255, 255, 0);
   animation: effect 1.5s linear infinite;
 }
