@@ -1,0 +1,62 @@
+body {
+  background-image: radial-gradient(#fafafa 20%, transparent 20%),
+     radial-gradient(#fafafa 20%, transparent 20%);
+  background-color: #ffd4d3;
+  background-position: 0 0, 100px 100px;
+  background-size: 250px 250px;
+  height: 100%;
+  width: 100%;
+}
+
+footer {
+    font-family: 'Crimson Pro', serif;
+    text-align: center;
+  }
+
+#texture-container{
+    display: flex;  
+    margin: 5%;
+    width: 90%;
+    height: 90%;
+    justify-content: center;
+    align-items: center;
+  background-color: rgba(255, 255, 255, 0.6);
+  }
+  
+#content{
+    margin: auto;
+    width: 75%;
+    padding-top: 5%;
+  }
+
+h1{
+    font-family: 'Crimson Pro', serif;
+    font-size: 3vw;
+    text-align: center;
+    padding-top: 5%;
+  }
+
+.section{
+    padding-top: 0;
+  }
+
+p {
+    color: black;
+    font-family: 'Crimson Pro', serif;
+    font-size: 1.7vw;
+  }
+
+.caps{
+    color: rgba(0,0,0);
+    float:left;
+    margin-top: 0;
+    font-size: 5vw;
+    line-height: 3.5vw;
+    padding-right: .4vw;
+    position:relative;
+  }
+
+a{
+    color: PeachPuff;
+    font-family: 'Crimson Pro', serif;
+  }
