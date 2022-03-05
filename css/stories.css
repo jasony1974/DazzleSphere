@@ -28,7 +28,7 @@ h3 {
 
 .story-lede {
     padding: 1rem;
-    width: 55%;
+    width: 60%;
     font-family: 'Architects Daughter', cursive;
     font-size: 2rem;
     text-align: center;
@@ -64,6 +64,7 @@ h3 {
     background-size: 100%;
     background-color: rgba(255, 255, 255, .5);
     background-image: url("../images/puppies_btn.jpg");
+    background-repeat: no-repeat;
 }
 
 .home {
