@@ -2,8 +2,8 @@ body {
   background-image: radial-gradient(#fafafa 20%, transparent 20%),
      radial-gradient(#fafafa 20%, transparent 20%);
   background-color: #ffd4d3;
-  background-position: 0 0, 100px 100px;
-  background-size: 250px 250px;
+  background-position: 0 0, 3.5rem 3.5rem;
+  background-size: 7rem 7rem;
   height: 100%;
   width: 100%;
 }
