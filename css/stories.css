@@ -20,7 +20,7 @@ h3 {
 
 .story-div {
     justify-content: space-between;
-    width: 80%;
+    width: 90%;
     display: flex;
     align-content: center;
     padding: 1rem;
@@ -28,7 +28,7 @@ h3 {
 
 .story-lede {
     padding: 1rem;
-    width: 60%;
+    width: 65%;
     font-family: 'Architects Daughter', cursive;
     font-size: 2rem;
     text-align: center;
@@ -61,10 +61,11 @@ h3 {
   }
 
   .puppies {
-    background-size: 100%;
+    background-size: 190%;
     background-color: rgba(255, 255, 255, .5);
     background-image: url("../images/puppies_btn.jpg");
     background-repeat: no-repeat;
+    background-position: 50% 50%;
 }
 
 .home {
