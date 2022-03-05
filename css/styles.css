@@ -160,36 +160,36 @@ a.Meet {
 
 @-moz-keyframes shimmer {
   0% {
-      background-position: top left;
+      background-position: -100px 0;
   }
   100% {
-      background-position: top right;
+      background-position: 300px 0;
   }
 }
 
 @-webkit-keyframes shimmer {
   0% {
-      background-position: top left;
+      background-position: -100px 0;
   }
   100% {
-      background-position: top right;
+      background-position: 300px 0;
   }
 }
 
 @-o-keyframes shimmer {
   0% {
-      background-position: top left;
+      background-position: -100px 0;
   }
   100% {
-      background-position: top right;
+      background-position: 300px 0;
   }
 }
 
 @keyframes shimmer {
   0% {
-      background-position: top left;
+      background-position: -100px 0;
   }
   100% {
-      background-position: top right;
+      background-position: 300px 0;
   }
 }
