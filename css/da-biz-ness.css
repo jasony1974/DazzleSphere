@@ -52,6 +52,14 @@ p {
     text-align: center;
 }
 
+a:link {
+    color: #f40; 
+}
+
+a:visited {
+    color: #08f; 
+}
+
 /* Animate neon flicker */
 @keyframes flicker {
     
