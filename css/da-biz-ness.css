@@ -43,6 +43,12 @@ p {
     color: white;
 }
 
+li{
+    padding: 1rem 2rem;
+    font-size: 1.3rem;
+    color: white;
+}
+
 .container {
     width: 90%;
 }

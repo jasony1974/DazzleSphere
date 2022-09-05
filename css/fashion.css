@@ -1,0 +1,50 @@
+body {
+    background-color: #FCF9E9;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+  }
+  
+  footer {
+    background-color: #FCF9E9;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    text-align: center;
+  }
+
+  h1 {
+    color: #d04261;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 6rem;
+    margin: 0;
+    text-align: center;
+  
+  }
+  
+  h3 {
+    color: #d04261;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 3rem;
+    margin: 0;
+    text-align: center;
+    padding-bottom:15px;
+  }
+
+  p {
+    color: #c92649;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .carousel {
+    width:65%;
+    margin: auto;
+    padding: 2%;
+  }
+
+
+
+  .carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    background-color: #2A7B72;
+    border-radius: 100%;
+  }
