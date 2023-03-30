@@ -56,6 +56,14 @@ p {
     background-image: url("brushed-alum.png");
   }
 
+  .secret {
+    background-color: rgb(228, 237, 235);
+    background-size: 100%;
+    background-image: url("../images/Dazzles\ and\ the\ Secret\ logo.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
   .primrose {
     background-image: radial-gradient(#fafafa 20%, transparent 20%),
     radial-gradient(#fafafa 20%, transparent 20%);
