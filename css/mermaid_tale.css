@@ -1,0 +1,61 @@
+body {
+    background-image: url("shells_tile.png");
+    background-color: #daf3e0;
+    background-position: 0 0, 3.5rem 3.5rem;
+    background-size: 25rem;
+    height: 100%;
+    width: 100%;
+  }
+  
+  footer {
+      font-family: 'Crimson Pro', serif;
+      text-align: center;
+    }
+  
+  #texture-container{
+      display: flex;  
+      margin: 6%;
+      width: 88%;
+      height: 90%;
+      justify-content: center;
+      align-items: center;
+    background-color: rgba(255, 255, 255, .8);
+    }
+    
+  #content{
+      margin: auto;
+      width: 75%;
+      padding-top: 5%;
+    }
+  
+  h1{
+      font-family: 'Crimson Pro', serif;
+      font-size: 3vw;
+      text-align: center;
+      padding-top: 5%;
+    }
+ 
+  .section{
+      padding-top: 0;
+    }
+  
+  p {
+      color: black;
+      font-family: 'Crimson Pro', serif;
+      font-size: 1.7vw;
+    }
+  
+  .caps{
+      color: rgba(0,0,0);
+      float:left;
+      margin-top: 0;
+      font-size: 5vw;
+      line-height: 3.5vw;
+      padding-right: .4vw;
+      position:relative;
+    }
+  
+  a{
+      color: rgb(197, 120, 53);
+      font-family: 'Crimson Pro', serif;
+    }
