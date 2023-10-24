@@ -1,10 +1,8 @@
 body {
-    background-image: url("shells_tile.png");
-    background-color: #daf3e0;
-    background-position: 0 0, 3.5rem 3.5rem;
-    background-size: 25rem;
-    height: 100%;
-    width: 100%;
+    background-image: url("orange_sunrise.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
   }
   
   footer {
@@ -19,20 +17,28 @@ body {
       height: 90%;
       justify-content: center;
       align-items: center;
-    background-color: rgba(255, 255, 255, .8);
+    background-color: rgba(0, 0, 0, .30);
     }
     
-  #content{
+    #empty{
+      margin: auto;
+      width: 75%;
+      padding-top: 50%;
+    }
+ 
+    #content{
       margin: auto;
       width: 75%;
       padding-top: 5%;
     }
   
   h1{
+      color: white;
       font-family: 'Crimson Pro', serif;
       font-size: 3vw;
       text-align: center;
       padding-top: 5%;
+      padding-bottom: 10%;
     }
  
   .section{
@@ -40,7 +46,7 @@ body {
     }
   
   p {
-      color: black;
+      color: white;
       font-family: 'Crimson Pro', serif;
       font-size: 1.7vw;
     }
