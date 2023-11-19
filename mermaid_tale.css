@@ -1,0 +1,68 @@
+body {
+    background-image: url("orange_sunrise.jpg");
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  footer {
+      font-family: 'Crimson Pro', serif;
+      text-align: center;
+    }
+  
+  #texture-container{
+      display: flex;  
+      margin: 6%;
+      width: 88%;
+      height: 90%;
+      justify-content: center;
+      align-items: center;
+    background-color: rgba(0, 0, 0, .30);
+    }
+    
+    #empty{
+      margin: auto;
+      width: 75%;
+      padding-top: 50%;
+    }
+ 
+    #content{
+      margin: auto;
+      width: 75%;
+      padding-top: 5%;
+    }
+  
+  h1{
+      color: white;
+      font-family: 'Crimson Pro', serif;
+      font-size: 3vw;
+      text-align: center;
+      padding-top: 5%;
+      padding-bottom: 10%;
+    }
+ 
+  .section{
+      padding-top: 0;
+    }
+  
+  p {
+      color: white;
+      font-family: 'Crimson Pro', serif;
+      font-size: 1.7vw;
+    }
+  
+  .caps{
+      color: rgba(0,0,0);
+      float:left;
+      margin-top: 0;
+      font-size: 5vw;
+      line-height: 3.5vw;
+      padding-right: .4vw;
+      position:relative;
+    }
+  
+  a{
+      color: rgb(197, 120, 53);
+      font-family: 'Crimson Pro', serif;
+    }
